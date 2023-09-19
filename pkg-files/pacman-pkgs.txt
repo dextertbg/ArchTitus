@@ -17,6 +17,13 @@ linux-headers
 noto-fonts-emoji
 usbutils
 xdg-user-dirs
+bluez
+bluez-libs
+bluez-utils
+kitty
+zsh
+zsh-syntax-highlighting
+zsh-autosuggestions
 --END OF MINIMAL INSTALL--
 alsa-plugins
 alsa-utils
@@ -26,9 +33,7 @@ awesome-terminal-fonts
 bash-completion
 bind
 bison
-bluez
-bluez-libs
-bluez-utils
+
 bridge-utils
 btrfs-progs
 celluloid
@@ -59,7 +64,7 @@ gst-plugins-ugly
 haveged
 htop
 jdk-openjdk
-kitty
+
 libdvdcss
 libtool
 lsof
@@ -107,6 +112,4 @@ wine-gecko
 wine-mono
 winetricks
 zip
-zsh
-zsh-syntax-highlighting
-zsh-autosuggestions
+
