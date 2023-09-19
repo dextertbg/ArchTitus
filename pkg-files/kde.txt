@@ -5,18 +5,19 @@ bluedevil
 plasma-nm
 spectacle
 systemsettings
-xdg-desktop-portal-kde
 konsole
 extra-cmake-modules
 systemsettings
---END OF MINIMAL INSTALL--
+okular
+gwenview
+discover
 ark
+xdg-desktop-portal-kde
+--END OF MINIMAL INSTALL--
 audiocd-kio
 breeze
 breeze-gtk
-discover
 filelight
-gwenview
 kate
 kde-gtk-config
 kcodecs
@@ -31,11 +32,9 @@ kwalletmanager
 kwayland-integration
 layer-shell-qt
 milou
-okular
 oxygen
 plasma-pa
 plasma-wayland-session
 powerdevil
 print-manager
-xdg-desktop-portal-kde
 zeroconf-ioslave
