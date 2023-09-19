@@ -1,14 +1,20 @@
 plasma-desktop
 sddm
 dolphin
+bluedevil
+plasma-nm
+spectacle
+systemsettings
+xdg-desktop-portal-kde
+konsole
+extra-cmake-modules
+systemsettings
 --END OF MINIMAL INSTALL--
 ark
 audiocd-kio
-bluedevil
 breeze
 breeze-gtk
 discover
-extra-cmake-modules
 filelight
 gwenview
 kate
@@ -19,7 +25,6 @@ kdeplasma-addons
 kgamma5
 kgpg
 kinfocenter
-konsole
 kscreen
 kvantum-qt5
 kwalletmanager
@@ -28,12 +33,9 @@ layer-shell-qt
 milou
 okular
 oxygen
-plasma-nm
 plasma-pa
 plasma-wayland-session
 powerdevil
 print-manager
-spectacle
-systemsettings
 xdg-desktop-portal-kde
 zeroconf-ioslave
