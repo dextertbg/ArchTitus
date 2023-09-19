@@ -1,3 +1,4 @@
+google-chrome
 --END OF MINIMAL INSTALL--
 autojump
 brave-bin
